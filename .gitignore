@@ -1,0 +1,9 @@
+# dependencies
+/node_modules
+/build
+/dist
+
+# yarn
+yarn-error.log*
+yarn-debug.log*
+npm-debug.log*
